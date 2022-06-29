@@ -2,7 +2,15 @@
 
 ## Summary
 
-Short summary on functionality and used technologies.
+Add Web Parts to Tabs in Modern SharePoint Pages. 
+
+- Upload the Solution Package to your app catalog
+- Add the web part “ModernHillbillyTabs” to the section of the page where you want the tabs to be.
+- Add the web parts you want to be in tabs to the SAME SECTION
+- Edit the Web Part Properties of the ModernHillbillyTabs and click on the button “Manage Tab Labels”
+Using the collection property that is displayed, select the web part you want to put in a tab and specify the label you want for that tab. You’ll notice when selecting a web part it just says “Web Part 1”, “Web Part 2”, etc… this is because there’s no identifying title on all web parts. You may have to guess which web part you are labeling and go back and update the label if you were wrong. Hey, you get what you pay for.
+
+Blog post with video using the web part can be found at:  http://www.markrackley.net/2022/06/29/the-return-of-hillbilly-tabs/
 
 [picture of the solution in action, if possible]
 
