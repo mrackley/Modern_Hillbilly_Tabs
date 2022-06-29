@@ -67,7 +67,7 @@ export default class ModernHillbillyTabsWebPart extends BaseClientSideWebPart<IM
                 <a href="https://github.com/mrackley/Modern_Hillbilly_Tabs" class="${ styles.button }">
                   <span class="${ styles.label }">View Source on GitHub</span>
                 </a>
-                <a href="https://www.markrackley.net" class="${ styles.button }">
+                <a href="http://www.markrackley.net/2022/06/29/the-return-of-hillbilly-tabs/" class="${ styles.button }">
                   <span class="${ styles.label }">View Blog Post</span>
                 </a>
               </div>
