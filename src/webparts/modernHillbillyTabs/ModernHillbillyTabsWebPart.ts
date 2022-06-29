@@ -64,10 +64,10 @@ export default class ModernHillbillyTabsWebPart extends BaseClientSideWebPart<IM
                     <li>Click on the button to 'Manage Tab Labels' and then specify the labels for each web part using the property control.</li>
                   </ul> 
                   The other two Web Part Properties are used to identify sections/web parts on the screen. Do not change these values unless you know what you are doing.</p>
-                <a href="https://aka.ms/spfx" class="${ styles.button }">
+                <a href="https://github.com/mrackley/Modern_Hillbilly_Tabs" class="${ styles.button }">
                   <span class="${ styles.label }">View Source on GitHub</span>
                 </a>
-                <a href="https://aka.ms/spfx" class="${ styles.button }">
+                <a href="https://www.markrackley.net" class="${ styles.button }">
                   <span class="${ styles.label }">View Blog Post</span>
                 </a>
               </div>
