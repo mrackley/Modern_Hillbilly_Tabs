@@ -1,0 +1,19 @@
+.addui-Tabs .addui-Tabs-tabHolder { display: flex; }
+    
+.addui-Tabs .addui-Tabs-tabHolder .addui-Tabs-tab {
+  flex: 1;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+  text-align: center;
+  padding: 8px 16px;
+  cursor: pointer;
+  color: rgba(0, 0, 0, 0.87);
+}
+
+.addui-Tabs .addui-Tabs-tabHolder .addui-Tabs-tab.addui-Tabs-active {
+  padding-bottom: 5px;
+  border-bottom: 4px solid #3f51b5;
+}
+
+.addui-Tabs .addui-Tabs-content { display: none; }
+
+.addui-Tabs .addui-Tabs-content.addui-Tabs-active { display: block; }
