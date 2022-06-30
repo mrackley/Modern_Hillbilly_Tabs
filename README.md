@@ -12,7 +12,7 @@ Using the collection property that is displayed, select the web part you want to
 
 Blog post with video using the web part can be found at:  http://www.markrackley.net/2022/06/29/the-return-of-hillbilly-tabs/
 
-[picture of the solution in action, if possible]
+<img src="https://media3.giphy.com/media/UQLQedbQRiCxmVYJoL/giphy.gif?cid=790b76119245e8e57530f323c5f2f6dfc2bc0da5bba02e9a&rid=giphy.gif&ct=g"></img>
 
 ## Used SharePoint Framework Version
 
